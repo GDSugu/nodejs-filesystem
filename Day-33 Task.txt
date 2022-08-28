@@ -1,0 +1,18 @@
+1) GitHub repository URL - https://github.com/GDSugu/Day-33
+
+2) Heroku URL - https://file-task.herokuapp.com
+
+3) Last Committed Hash ID - d578bdc987297e51623189e55abc6fa23db527eb
+
+API Endpoint URL:
+
+ 1) Write API End point which will create a file in a particular folder 
+	 
+	Method:POST	
+	https://file-task.herokuapp.com/write
+
+ 2) Write an API End point to retrieve all text filse in that particular folder 
+
+	Method:GET	
+	https://file-task.herokuapp.com/read
+
